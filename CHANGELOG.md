@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Features
 
+- update image to v 2.7.3 ([4a0c1ac](https://github.com/pmoscode-helm/gotify/commit/4a0c1acc82bb805db02ebe3ded951aadd705ed10) by Peter Motzko).
 - update image to v 2.7.2 ([a68f746](https://github.com/pmoscode-helm/gotify/commit/a68f74636498c29ac64a0ae7bf37f73b61f9ba20) by Peter Motzko).
 
 <!-- insertion marker -->
